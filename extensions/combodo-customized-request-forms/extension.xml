@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>combodo-customized-request-forms</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Eric/Guillaume]]></author>
+	<label><![CDATA[Customized request forms]]></label>
+	<description><![CDATA[Define personalized request forms based on the service catalog. Add extra fields for a given type of request.]]></description>
+	<version>2.0.10</version>
+	<release_date>2018-01-25</release_date>
+	<version_description><![CDATA[
+            N°924 - Use of Ticket fields in customized forms
+            N°1079 Fix TemplateFieldsHandler::IsNull() for 
+            N°1080 Fix wrong display of request template placeholders in 
+      ]]></version_description>
+	<itop_version_min>2.3.2</itop_version_min>
+	<status>stable</status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>combodo-predefined-response-models</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Denis]]></author>
+	<label><![CDATA[Predefined response models]]></label>
+	<description><![CDATA[Pick common answers from a list of  predefined replies grouped by categories to update tickets log]]></description>
+	<version>1.1.1</version>
+	<release_date>2016-08-08</release_date>
+	<version_description><![CDATA[Compatibility with iTop 2.3.0 (formatted text) and bug fix to support pagination in the popup dialog for selecting a reply.]]></version_description>
+	<itop_version_min>2.3.0</itop_version_min>
+	<status>stable</status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>

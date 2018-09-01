@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension format="1.0">
+	<extension_code>combodo-mail-to-ticket-automation</extension_code>
+	<company>Combodo SARL</company>
+	<author><![CDATA[Guillaume]]></author>
+	<label><![CDATA[Mail to ticket automation]]></label>
+	<description><![CDATA[Scan several mailboxes to create or update tickets.]]></description>
+	<version>3.0.11</version>
+	<release_date>2018-02-06</release_date>
+	<version_description><![CDATA[
+        Fix attachments stored as inline images when content-disposition was not specified correctly.
+      ]]></version_description>
+	<itop_version_min>2.3.0</itop_version_min>
+	<status>stable</status>
+	<mandatory>false</mandatory>
+	<more_info_url></more_info_url>
+</extension>
