@@ -12,6 +12,7 @@ _notes/
 conf/*
 data/*
 env-*/*
+log/*
 
 # don't know
 /bower_components/
